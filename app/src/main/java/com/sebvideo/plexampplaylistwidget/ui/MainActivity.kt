@@ -18,7 +18,6 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.google.android.material.snackbar.Snackbar
 import com.sebvideo.plexampplaylistwidget.R
 import com.sebvideo.plexampplaylistwidget.databinding.ActivityMainBinding
 import com.sebvideo.plexampplaylistwidget.utils.UrlTransformer
