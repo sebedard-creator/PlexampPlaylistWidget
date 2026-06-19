@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plexamp Playlist Widget</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="annuler">Annuler</string>
+    <string name="ok">OK</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="erreur">Erreur</string>
+    <string name="scan_nfc_titre">Scanner le tag NFC</string>
+    <string name="scan_nfc_message">Veuillez approcher le tag NFC Plexamp.</string>
+    <string name="nfc_indisponible">NFC indisponible</string>
+    <string name="nfc_desactive_message">Le NFC est désactivé ou non supporté. Activez-le dans les paramètres.</string>
+    <string name="nom_playlist_titre">Nommer la playlist</string>
+    <string name="nom_playlist_hint">Nom de la playlist</string>
+    <string name="url_invalide_message">L\'URL du tag ne correspond pas au format Plexamp attendu.</string>
+    <string name="lancement_playlist">Lancement de %1$s…</string>
+    <string name="playlist_deleted">%1$s supprimée.</string>
+    <string name="widget_vide">Aucune playlist.</string>
+</resources>

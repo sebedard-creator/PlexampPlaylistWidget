@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Un noir légèrement plus opaque (60%) pour un meilleur contraste -->
+    <solid android:color="#99000000" />
+    <!-- Des coins joliment arrondis typiques d'Android 12+ -->
+    <corners android:radius="20dp" />
+</shape>
