@@ -37,7 +37,7 @@ L'application permet d'intercepter un tag NFC contenant une URL de partage Plexa
   * Configurer un `PendingIntentTemplate` sur la `ListView`.
   * Au clic sur une ligne, l'application doit lancer un `Intent(Intent.ACTION_VIEW, Uri.parse(modifiedUrl))`.
   * **Flags obligatoires :** `Intent.FLAG_ACTIVITY_NEW_TASK`.
-  * **Feedback :** Afficher un `Toast` : "Lancement de [Nom de la playlist]..." lors du clic.
+  * **Feedback :** Afficher un `Toast` : "Lancement de [Nom de la playlist]..." lors du clic
 
 # LIVRABLES ATTENDUS DE TA PART
 Génère le code modulaire et structuré. Fournis :
